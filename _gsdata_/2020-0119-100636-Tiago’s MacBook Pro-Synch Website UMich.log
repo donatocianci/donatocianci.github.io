@@ -1,0 +1,42 @@
+2020-01-19 10:06:37: -- Analysis Started by User Command
+2020-01-19 10:06:40: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 80
+2020-01-19 10:06:40: Left to Right: Copy File: 1 
+2020-01-19 10:06:40: -- Analysis Complete. Time 00:00:04, Speed: 11 files/s
+2020-01-19 10:06:40: 
+2020-01-19 10:06:43: == Sync Started by User Command
+2020-01-19 10:06:44: Copy Over '/Users/tsalvador/MEGA/PhD/Personal Website/research.html' -> 'sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/research.html' (10,460)
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 1 (with solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 4.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/eval_poly.m
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/Exam Review Exercises (questions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 5.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 6 (with solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 6.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/2nd Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/Midterm Review Exercises (questions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/index.html~
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/6th Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/teaching.html
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 3 (with solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/3rd Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/Exam Review Exercises (solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/matlab_guide.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 5 (with solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/Midterm Review Exercises (solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 2 (with solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/8th Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/10th Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/4th Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 1.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 4 (with solutions).pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 2.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Replacement Lemma.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/syllabus.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223_winter2015.html
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/9th Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math223/winter2015/Assignment 3.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/11th Tutorial.pdf
+2020-01-19 10:06:45: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317/fall2015/5th Tutorial.pdf
+2020-01-19 10:06:46: Deleted Recycled: sftp://sftp.itd.umich.edu/afs/umich.edu/user/s/a/saldanha/Public/html/_gsdata_/_saved_/math317_fall2015.html
+2020-01-19 10:06:46: == Sync Complete. Time: 00:00:05, Speed: 3.4 KB/s, OK: 1, Errors: 0
+2020-01-19 10:06:46: 
