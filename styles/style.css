@@ -100,17 +100,22 @@ em{
 	margin:25px -22px 0 0;
 }
 .menu{
-	padding:7px 6px 0 0;
+	padding: 0 0;
 }
 .menu li{
-	margin:0 0px;
-	padding:0 0 8px;
+	margin:0px 12px;
+	padding-left:-3em;
 	float:left;
-	position:relative;
 }
+
+.menu li span {
+  position: relative;
+  left: -10px;
+}
+
 .menu a{
 	display:block;
-	padding: 8px 15px;
+	padding: 0px 15px;
 	margin:0;
 	color:#555;
 	text-decoration:none;
@@ -130,9 +135,9 @@ em{
 	background:#eee;
 	display:none;
 	margin:0;
-	padding:0;
+	padding: 0;
 	width:250px;
-	position:absolute;
+	position:relative;
 	top:35px;
 	left:20px;
 	border:solid 1px #ddd;
